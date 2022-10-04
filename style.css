@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Peralta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Passions+Conflict&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Passions+Conflict&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Anton&family=Lobster&family=Passions+Conflict&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Reem+Kufi+Fun&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Orbitron:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Major+Mono+Display&family=Orbitron:wght@900&display=swap');
+
+#home{ 
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+#about{
+    font-family: 'Peralta', cursive;
+
+}
+
+#service{
+    font-family: 'Passions Conflict', cursive;
+    font-size: xx-large;
+}
+
+#port{
+    font-family: 'Lobster', cursive;
+}
+
+#team{
+    font-family: 'Anton', sans-serif;
+}
+
+#contact{
+    font-family: 'Alkalami', serif;
+}
+
+#blog{
+    font-family: 'Orbitron', sans-serif;
+}
+
+#cart{
+    font-family: 'Reem Kufi Fun', sans-serif;
+}
+
+#price{
+    font-family: 'Dancing Script', cursive;
+}
+
+#login{
+    font-family: 'Major Mono Display', monospace;
+}
